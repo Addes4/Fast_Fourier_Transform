@@ -19,6 +19,20 @@ When the script runs, it:
 - opens three figures showing the clean heart signal, the noisy ECG signal, the filtered signal, the amplitude spectrum, and a comparison of noisy versus filtered data
 - saves the three figures as `figur1.png`, `figur2.png`, and `figur3.png` on the desktop
 
+## Plots
+
+### Figure 1
+
+![Figure 1](figur1.png)
+
+### Figure 2
+
+![Figure 2](figur2.png)
+
+### Figure 3
+
+![Figure 3](figur3.png)
+
 ## Parameters used
 
 - Sampling frequency: `500 Hz`
