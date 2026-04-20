@@ -1,4 +1,4 @@
-# FFT.m
+# Fast Fourier Transforms
 
 `FFT.m` simulates an ECG-like signal, adds random noise and a 50 Hz interference component, uses the Fast Fourier Transform (FFT) to detect the dominant heart-rate and disturbance frequencies, removes the disturbance in the frequency domain, reconstructs the filtered signal with the inverse FFT, and visualizes the result.
 
